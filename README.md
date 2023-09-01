@@ -54,8 +54,8 @@ https://www.kaggle.com/datasets/manishkr1754/cardekho-used-car-data
 
 # Exploratory Data Analysis Notebook
 
-Link : [EDA Notebook](./notebook/1_EDA STUDENT PERFORMANCE .ipynb)
+Link : [EDA Notebook](./notebook/1_EDA_STUDENT_PERFORMANCE.ipynb)
 
 # Model Training Approach Notebook
 
-Link : [Model Training Notebook](./notebook/2_MODEL TRAINING.ipynb)
+Link : [Model Training Notebook](./notebook/2_MODEL_TRAINING.ipynb)
